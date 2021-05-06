@@ -1,2 +1,2 @@
 # ShinkansenTicketReserveApp
-新幹線予約風アプリ
+新幹線チケット予約風アプリ
